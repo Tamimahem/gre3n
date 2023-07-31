@@ -1,1 +1,1 @@
-MR=10184=GREEN
+MR=[10492]=GREEN #mine
