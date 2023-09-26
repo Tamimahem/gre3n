@@ -1,3 +1,1 @@
-MR=[10273]=GREEN # Niloy 1 day
-MR=[10239]=GREEN # shanto 1 day
-MR=[10219]=GREEN #anas
+MR=[10316]=GREEN
